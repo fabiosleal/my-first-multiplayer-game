@@ -19,5 +19,12 @@ Esse jogo tem como principal intenção, ser simples, visando e facilitando o ap
 
 ---
 
+## Módulos Usados
+
+- npx serve
+  - muito interessante para implementações com arquivos estáticos (para desenvolvimento).
+
+---
+
 Esse é um projeto que partiu de uma iniciativa do desenvolvedor @filipedeschamps.
 ([link](https://www.youtube.com/watch?v=P5kfA6ncOs8))
